@@ -26,7 +26,7 @@ nav ul {
 }
 
 nav ul a {
-  color: lightgray;
+  color: rgb(79, 23, 23);
 }
 
 footer nav ul {
@@ -44,7 +44,7 @@ article {
 }
 
 article p::first-letter {
-  color: lightgray;
+  color: rgb(42, 40, 40);
 }
 
 .read-more {
@@ -62,7 +62,7 @@ article p::first-letter {
 
 
 .content p::first-letter {
-  color: lightgray;
+  color: rgba(54, 53, 53, 0.056);
   float: left;
   font-size: 3rem;
   line-height: 2rem;
