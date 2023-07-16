@@ -44,7 +44,7 @@ article {
 }
 
 article p::first-letter {
-  color: rgb(42, 40, 40);
+  color:rgb(84 81 81 / 89%);
 }
 
 .read-more {
@@ -62,7 +62,7 @@ article p::first-letter {
 
 
 .content p::first-letter {
-  color: rgba(54, 53, 53, 0.056);
+  color: rgb(84 81 81 / 89%);
   float: left;
   font-size: 3rem;
   line-height: 2rem;
